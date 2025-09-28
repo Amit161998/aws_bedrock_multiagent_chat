@@ -23,3 +23,7 @@ This architecture, built with Python, Streamlit, Boto3, and LangChain, represent
 Whether you're a developer, AI/ML engineer, or technical leader, understanding RAG solutions on AWS is becoming essential. Dive in and explore how you can unlock actionable knowledge from your data!
 
 hashtag#𝐀𝐈 hashtag#𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐯𝐞𝐀𝐈 hashtag#𝐀𝐖𝐒 hashtag#𝐀𝐖𝐒𝐁𝐞𝐝𝐫𝐨𝐜𝐤 hashtag#𝐑𝐀𝐆 hashtag#𝐌𝐚𝐜𝐡𝐢𝐧𝐞𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 hashtag#𝐋𝐋𝐌 hashtag#𝐂𝐥𝐨𝐮𝐝𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠 hashtag#𝐃𝐚𝐭𝐚𝐒𝐜𝐢𝐞𝐧𝐜𝐞 hashtag#𝐓𝐞𝐜𝐡𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧 hashtag#𝐃𝐞𝐞𝐩𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 hashtag#𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 hashtag#𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 hashtag#𝐋𝐚𝐧𝐠𝐂𝐡𝐚𝐢𝐧 hashtag#𝐒𝐭𝐫𝐞𝐚𝐦𝐥𝐢𝐭 hashtag#𝐅𝐀𝐈𝐒𝐒 hashtag#𝐀𝐧𝐭𝐡𝐫𝐨𝐩𝐢𝐜𝐂𝐥𝐚𝐮𝐝𝐞 hashtag#𝐌𝐞𝐭𝐚𝐋𝐥𝐚𝐦𝐚 hashtag#𝐓𝐞𝐜𝐡 hashtag#𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧 hashtag#𝐅𝐮𝐭𝐮𝐫𝐞𝐨𝐟𝐖𝐨𝐫𝐤
+
+
+
+https://www.linkedin.com/posts/shanamit16998_aws-bedrock-pdf-chat-multi-model-qa-activity-7355195879504392193-Xg7A?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB59hNgB2L78yjJclhynWWh8nOLW33gmo0o
